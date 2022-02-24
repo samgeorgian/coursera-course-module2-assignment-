@@ -2,8 +2,6 @@ Coursera course: HTML, CSS, and Javascript for Web Developers, Module 2 Coding A
 
 Link: https://samgeorgian.github.io/coursera-course-module2-assignment-/
 
-Github Link:https://github.com/samgeorgian/coursera-course-module3-assignment--
-
 Time to complete: 1-2 hours. It may take you less time than that if you've absorbed the material in this module well.
 
 Ask questions in Discussions if you get stuck! We are all learning, and going through getting stuck and then unstuck (even with someone's help) can be a very valuable learning experience!
